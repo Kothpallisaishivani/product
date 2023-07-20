@@ -78,7 +78,7 @@ products, and is one of the largest fast-moving consumer goods (FMCG) companies 
 
   <div class="column">
 <div class="container">
-<img src="dd.jpg" alt="Avatar" style="width:100%">
+<img src="2.jpg" alt="Avatar" style="width:100%">
   <div class="overlay">
    <a href ="https://www.patanjaliayurved.net/"  <div class="text"><h6>Patanjali Ayurved, (known as Patanjali), is an Indian multinational conglomerate holding company, based in Haridwar, India. It was founded by Ramdev and Balkrishna in 2006.Its office is in Delhi, 
 with manufacturing units and headquarters in the industrial area of Haridwar.</h6> </div>
